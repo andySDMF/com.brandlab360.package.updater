@@ -1,0 +1,16 @@
+{
+	"name": "com.brandlab360.package.updater",
+	"version": "4.7.0",
+	"displayName": "BrandLab360 Package Updater",
+	"description": "The BrandLab360 Package Updater for pushing packages to git",
+	"unity": "2019.4",
+	"keywords": [
+		"BrandLab360",
+		"Package Updater"
+	],
+	"author": {
+		"name": "BrandLab360",
+		"email": "luke@brandlab-360.com",
+		"url": "https://hub.brandlab360.co.uk"
+	}
+}

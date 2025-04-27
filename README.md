@@ -1,1 +1,4 @@
-# com.brandlab360.package.updater
+
+	- Requires to be a collaborator of the git repository
+	
+	
